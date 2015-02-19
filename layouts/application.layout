@@ -194,6 +194,7 @@
             width:100%;
             border:15px solid #bfbfbf !important;
             border-top:none !important;
+            color: #c8c8c8 !important;
         }  
     }
 
