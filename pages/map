@@ -44,8 +44,8 @@
 	#png_map{
 	    width:938px;
 		height: 700px;
-		min-width:2240px;
-		min-height: 943px;
+		min-width:938px;
+		min-height: 700px;
 	}
 	
 	.text {
