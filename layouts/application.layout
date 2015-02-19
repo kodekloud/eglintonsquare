@@ -179,7 +179,7 @@
     }
     
     .breadcrumb a {
-        color:#009cde !important;
+        color:black !important;
     }
     .right_column_header {
         color: #009cde ;
