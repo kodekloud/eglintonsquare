@@ -128,7 +128,7 @@
     }
     
     .view_button {
-        background:black;
+        background:black !important;
     }
     
     .navbar .nav li a:hover,.navbar .nav li a:active{
