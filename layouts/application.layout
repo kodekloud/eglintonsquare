@@ -89,13 +89,13 @@
     
     /*hyperlinks*/
     a{
-        color:white;
+        color:#999999;
         text-decoration:inherit;
     }
     
     /*hyperlink hover color*/
     a:hover{
-        color:white !important;
+        color:#999999 !important;
     }
     
     body{
