@@ -14,6 +14,19 @@
         <div class="left_column">
             <iframe class="gmap" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23066.043204890437!2d-79.29402395239259!3d43.72602094846684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x753b94b423a8fd85!2sEglinton+Square!5e0!3m2!1sen!2sus!4v1424449069747" style="border:0" title="Map">Directions</iframe>
         </div>
+        <h2>Directions</h2>
+  <h3>Via the TTC</h3>
+
+<p>For the most convenient way to arrive at Eglinton Shopping Centre from your location, please refer to the<a href="http://www.ttc.ca/" target="_blank"> TTC ROUTE GUIDE</a> by clicking here.</p>
+
+<h2>Driving</h2>
+
+<p><strong>North, West or East Visitors :</strong><br>
+Take the 401 to the DVP (South). Exit Eglinton Ave. East ramp. Turn right after crossing the Eglinton Eve./Victoria Park intersection for parking.</p>
+
+<p><strong>South, West or East Visitors :</strong><br>
+Take either the Gardiner Expressway (from the West) or Kingston Rd. (from the East). Merge onto the DVP North. Exit Eglinton Ave. East ramp. Turn right after crossing the Eglinton Ave/ Victoria Park intersection for parking.</p>
+
         <div class="right_column">
             <p class="right_column_header">centre information</p>
             <div id="centre_info_container">
