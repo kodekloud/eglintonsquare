@@ -14,12 +14,12 @@
     </div>
     <div class="inside_page_content">
     <style>
-    a {
+    .left_column a {
         color:black;
    
         
     }
-    a:hover {
+    .left_column a:hover {
         color:black !important;
        
         
