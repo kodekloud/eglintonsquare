@@ -16,12 +16,13 @@
     <style>
     .left_column a {
         color:black;
+        text-decoration:underline;
    
         
     }
     .left_column a:hover {
         color:black !important;
-       
+       text-decoration:underline;
         
     }
 </style>
