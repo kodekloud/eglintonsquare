@@ -158,26 +158,18 @@
     .page_banner{
         color:black;
         /* For Safari 5.1 to 6.0 */
-        background: -webkit-linear-gradient(left,#404040,#bebdbd, #404040);
+        background: -webkit-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
         /* For Opera 11.1 to 12.0 */
-        background: -o-linear-gradient(left,#404040,#bebdbd, #404040);
+        background: -o-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
         /* For Fx 3.6 to 15 */
-        background: -moz-linear-gradient(left,#404040,#bebdbd, #404040);
+        background: -moz-linear-gradient(left,#6e6e6e,#bebdbd, #6e6e6e);
         /* Standard syntax */
-        background: linear-gradient(to right,#404040,#bebdbd, #404040); 
+        background: linear-gradient(to right,#6e6e6e,#bebdbd, #6e6e6e); 
         box-shadow: 0px 0px 30px lightgray inset;
     }
     
     #description_section{
-       /* For Safari 5.1 to 6.0 */
-        background: -webkit-linear-gradient(left,#404040,#bebdbd, #404040);
-        /* For Opera 11.1 to 12.0 */
-        background: -o-linear-gradient(left,#404040,#bebdbd, #404040);
-        /* For Fx 3.6 to 15 */
-        background: -moz-linear-gradient(left,#404040,#bebdbd, #404040);
-        /* Standard syntax */
-        background: linear-gradient(to right,#404040,#bebdbd, #404040); 
-        box-shadow: 0px 0px 30px lightgray inset; 
+        
     }
     
     .section_header{}
