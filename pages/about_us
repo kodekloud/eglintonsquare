@@ -1,9 +1,11 @@
 <style>
     a {
         color:black;
+        text-decoration: underline;
     }
     a:hover {
         color:black !important;
+        text-decoration: underline;
     }
 </style>
 
