@@ -14,17 +14,7 @@
     </div>
     <div class="inside_page_content">
     <style>
-    .left_column a {
-        color:black;
-        text-decoration:underline;
-   
-        
-    }
-    .left_column a:hover {
-        color:black !important;
-       text-decoration:underline;
-        
-    }
+    
 </style>
         <div class="left_column">
             <img class="inside_banner_image" alt="banner" src="http://kodekloud.s3.amazonaws.com/sites/54e663f76e6f643dca000000/b1fc01475fcb15e4b4da1e07bc8d6766/Banner-Image-003_edited.jpg"/>
