@@ -10,6 +10,47 @@
         Contact Us
     </div>
     <div class="inside_page_content">
+    <div class="show_mobile">
+            <p class="right_column_header">centre information</p>
+            <div id="centre_info_container_mobile">
+                <script id="centre_info_template_mobile" type="x-tmpl-mustache/text">
+                    <p class="directory_content">{{name}}</p>
+                    <p class="directory_content">{{address1}}</p>
+                    <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
+                    <br>
+                    <p class="directory_content"><strong>Joan Lessard</strong> 
+                    <br>General Manager
+                    <br>416.757.7770 ext. 108
+                    <br><a href="mailto:jlessard@bentallkennedy.com">jlessard@bentallkennedy.com</a></p>
+                    <br>
+                   <p class="directory_content"><strong>Hector Valenzuela</strong> 
+                   <br>Operations Manager
+                   <br>416.757.7770 ext. 102
+                   <br><a href="mailto:dlee2@bentallkennedy.com" target="_blank">dlee2@bentallkennedy.com</a></p>
+                   <br>
+                   
+                   <p class="directory_content"><strong>Darren Neely</strong> 
+                   <br>Marketing Manager
+                   <br>416.757.7770 ext. 104
+                   <br><a href="mailto:dneely@bentallkennedy.com">dneely@bentallkennedy.com</a></p>
+                    <br>
+                   <p class="directory_content"><strong>Vera Shemetoff</strong> 
+                   <br>Property Administrator
+                   <br>416.757.7770 ext. 111
+                   <br> <a href="mailto:vshemetoff@bentallkennedy.com">vshemetoff@bentallkennedy.com</a></p>
+                    <br>
+                   <p class="directory_content"><strong>Norma Goverde</strong> 
+                   <br>Administrative Assistant
+                   <br>416.757.7770 101
+                   <br> <a href="mailto:ngoverde@bentallkennedy.com">ngoverde@bentallkennedy.com</a></p>
+                   <br>
+                   
+                   <p class="directory_content"> 
+                  <strong> Security </strong>
+                   <br>416.819.3302</p>
+                </script>
+            </div>
+        </div>
         <div class="left_column">
             <img class="inside_banner_image" alt="banner" src="http://kodekloud.s3.amazonaws.com/sites/54e663f76e6f643dca000000/7a3a6957ee353b684995ea9fa4cc8f18/banner-2_edited.jpg"/>
             <div id="send_contact_success" class="alert alert-success" role="alert" style="display:none">
@@ -157,6 +198,7 @@
         function renderAll (){
             var propertyDetails = getPropertyDetails();
             renderPageData('#centre_info_container','#centre_info_template',propertyDetails, 'property_details')
+            renderPageData('#centre_info_container_mobile','#centre_info_template_mobile',propertyDetails, 'property_details')
             $("#loading_screen").hide();
             $("#main_content").show();
         }
