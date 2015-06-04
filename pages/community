@@ -47,7 +47,7 @@
 <div  id="main_content" style="display:none">
     <ul class="breadcrumb">
         <li><a href="/home">Home</a> </li>
-        <li><a href="/leasing">Leasing</a> </li>
+        <li><a href="/contact_us">Contact Us</a> </li>
         <li class="active">Community Rental Form</li>
     </ul>
     <div class="page_banner">
@@ -59,9 +59,9 @@
         <p>
             <strong>Community Kiosk Application Form:</strong>
             <br/>
-            Kindly complete this form to enable Eglinton Square to process your request and confirm a date. Once your request has been approved, a temporary occupancy agreement will be sent to the contract person listed below. Please note that space will be granted on a first come, first serve basis. In addition, Eglinton Square reserves the right to refuse any request which it deems in conflict with the best interests of our merchants or shopping centre. Proof of liability insurance in the amount of three million dollars in Commerical General Liability and $250,000 in Tenant Legal Liability with the following listed as additional insured: PCM Sheridan Inc./Bentall Kennedy(Canada) LP, by its General Partner, Bentall Kennedy(Canada) GP Ltd, must be provided at least five days prior to your commitment date.
+            Kindly complete this form to enable Eglinton Square to process your request and confirm a date. Once your request has been approved, a temporary occupancy agreement will be sent to the contract person listed below. Please note that space will be granted on a first come, first serve basis. In addition, Eglinton Square reserves the right to refuse any request which it deems in conflict with the best interests of our merchants or shopping centre. Proof of liability insurance in the amount of three million dollars in Commerical General Liability and $250,000 in Tenant Legal Liability with the following listed as additional insured: Eglinton Square LP./Bentall Kennedy(Canada) LP, by its General Partner, Bentall Kennedy(Canada) GP Ltd, must be provided at least five days prior to your commitment date.
         </p>
-        <p>If you're a Mississauga based, non-profit organization who wishes to use space in our mall for the purpose of fundraising or raising awareness, please submit the following:</p>
+        <p>If you're a Toronto based, non-profit organization who wishes to use space in our mall for the purpose of fundraising or raising awareness, please submit the following:</p>
         <div id="send_contact_success" class="alert alert-success" role="alert" style="display:none">
               <span class="sr-only">Success</span>
               Thank you for contacting us. A member from our team will contact you shortly. 
