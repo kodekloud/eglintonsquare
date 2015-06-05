@@ -159,7 +159,7 @@
                     <label for="purpose">Purpose for use of in-mall space</label>
                     <textarea name="purpose" id="purpose" class="form-control" rows="5" ></textarea>
                 </div>
-                <div class="col-sm-6 col-md-6 padding-side-none" style="display:none;">
+                <div class="col-sm-6 col-md-6 padding-side-none">
                     <div class="col-sm-12 col-md-12 padding-side-none">
                        <div class="col-sm-4 col-md-4 padding-left-none">
                             <label for="hydro">Is hydro required?</label>
