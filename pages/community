@@ -347,12 +347,6 @@
                         "From Date(mm/dd/yyyy)":  $('#fromDate').val(),
                         "To Date(mm/dd/yyyy)":  $('#toDate').val(),
                         "Purpose for use of in-mall space":  $('#purpose').val(),
-                        "Is hydro required?":  $('#hydro option:selected').text(),
-                        "Are tables required?":  $('#table option:selected').text(),
-                        "How many tables?":  table,
-                        "Is staging required?":  $('#staging option:selected').text(),
-                        "Are chairs required?":  $('#chair option:selected').text(),
-                        "How many chairs?":  chair,
                         "Please specify any other requirements":  $('#anyother').val(),
                         "Anticipated Attendance":  $('#attendance').val()
                     } 
