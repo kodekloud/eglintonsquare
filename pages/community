@@ -159,51 +159,7 @@
                     <label for="purpose">Purpose for use of in-mall space</label>
                     <textarea name="purpose" id="purpose" class="form-control" rows="5" ></textarea>
                 </div>
-                <div class="col-sm-6 col-md-6 padding-side-none" style="display:none;">
-                    <div class="col-sm-12 col-md-12 padding-side-none">
-                       <div class="col-sm-4 col-md-4 padding-left-none">
-                            <label for="hydro">Is hydro required?</label>
-                            <select class="form-control" id="hydro" name="hydro" >
-                                <option value="0" selected="selected" >N/A</option>
-                                <option value="1">Yes</option>
-                                <option value="2">No</option>
-                            </select>
-                        </div>
-                        <div class="col-sm-4 col-md-4  padding-side-none">
-                            <label for="table">Are tables required?</label>
-                            <select class="form-control" id="table" name="table" >
-                                <option value="0" selected="selected" >N/A</option>
-                                <option value="1">Yes</option>
-                                <option value="2">No</option>
-                            </select>                        </div>
-                        <div class="col-sm-4 col-md-4 padding-right-none">
-                            <label for="tableNumber">How many tables?</label>
-                            <input name="tableNumber" id="tableNumber" class="form-control" type="text" />
-                        </div>
-                    </div>
-                    <div class="col-sm-12 col-md-12 padding-side-none">
-                       <div class="col-sm-4 col-md-4 padding-left-none">
-                            <label style="font-size:13px;" for="staging">Is staging required?</label>
-                            <select class="form-control" id="staging" name="staging" >
-                                <option value="0" selected="selected" >N/A</option>
-                                <option value="1">Yes</option>
-                                <option value="2">No</option>
-                            </select>   
-                        </div>
-                        <div class="col-sm-4 col-md-4  padding-side-none">
-                            <label for="chair">Are chairs required?</label>
-                            <select class="form-control" id="chair" name="chair" >
-                                <option value="0" selected="selected" >N/A</option>
-                                <option value="1">Yes</option>
-                                <option value="2">No</option>
-                            </select>   
-                        </div>
-                        <div class="col-sm-4 col-md-4 padding-right-none">
-                            <label for="chairNumber">How many chairs?</label>
-                            <input name="chairNumber" id="chairNumber" class="form-control" type="text" />
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-sm-12 col-md-12 padding-side-none">
                    <div class="col-sm-6 col-md-6 padding-left-none">
                         <label for="anyother">Please specify any other requirements</label>
